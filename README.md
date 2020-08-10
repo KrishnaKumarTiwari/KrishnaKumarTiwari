@@ -17,9 +17,9 @@
 -- NNs on Scale
 
 - 👯
--- EduTech
--- HealthTech
--- AgriTech
+  --EduTech
+  -- HealthTech
+  -- AgriTech
 
 - 🤔 
 -- Reach out to me if you are good at ReactJs & React-Native
