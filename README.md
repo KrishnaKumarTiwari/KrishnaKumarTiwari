@@ -8,9 +8,9 @@
 👨‍🎓 B.Tech in Computer Science & Engineering **[Dr. A.P.J. Abdul Kalam Technical University](https://www.akgec.ac.in/)** 
 
 
-- 🔭
--- Kavach
--- Growing **[ML-Ai Community](https://ml-ai.in/)** 
+Currently working on 🔭 
+- Kavach : 
+- Growing **[ML-Ai Community](https://ml-ai.in/)** 
 
 - 🌱
 -- Reinforcement Learning
