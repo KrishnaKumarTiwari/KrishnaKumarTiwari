@@ -8,24 +8,30 @@
 👨‍🎓 B.Tech in Computer Science & Engineering **[Dr. A.P.J. Abdul Kalam Technical University](https://www.akgec.ac.in/)** 
 
 
-Currently working on 🔭 
-- Kavach : 
+**Currently Working on **🔭 
+
+- Kavach **[Fight with Covid-19]**
 - Growing **[ML-Ai Community](https://ml-ai.in/)** 
 
-- 🌱
--- Reinforcement Learning
--- NNs on Scale
+**Currently Learning** 🌱
 
-- 👯
-  --EduTech
-  -- HealthTech
-  -- AgriTech
+- Reinforcement Learning
+- NNs on Scale
 
-- 🤔 
--- Reach out to me if you are good at ReactJs & React-Native
+**Looking to Collaborate**👯
+- EduTech
+- HealthTech
+- AgriTech
 
-- 💬
--- Mentoring on Machine Learning
+**Looking for help with** 🤔 
+- ReactJs & React-Native
+
+**Ask me about** 💬
+- Machine Learning 
+- Data Science 
+- ML on Scale
+
+
 
 - 📫 
 
