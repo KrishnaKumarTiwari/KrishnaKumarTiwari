@@ -7,7 +7,7 @@
 
 :chess_pawn: Member of Advisory Board at AI-Forum
 
-:kite: Failed Serial Entrepreneur 
+:kite: Failed Serial Entrepreneur [WatrHub,Evergreen,HoneyComb,Wishrupt...]
 
 **Education** 
 
