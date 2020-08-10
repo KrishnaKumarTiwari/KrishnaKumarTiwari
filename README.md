@@ -1,14 +1,19 @@
 ### Hey 👋, I'm [Krishna Kumar Tiwari]() 👨‍💻 	:india:
 
-:trophy: Forty Under Forty Data Scientist in India, 2020
 
+:trophy: Forty Under Forty Data Scientist in India, 2020
+:dart: Founder ML-Ai Community 
+:chess_pawn: Member of Advisory Board at AI-Forum
+:kite: Failed Serial Entrepreneur 
+
+**Education** 
 
 👨‍🎓 M.Tech in Computer Science & Engineering **[Indian Institute of Technology Guwahati](https://www.iitg.ac.in/)** 
 
 👨‍🎓 B.Tech in Computer Science & Engineering **[Dr. A.P.J. Abdul Kalam Technical University](https://www.akgec.ac.in/)** 
 
 
-**Currently Working on **🔭 
+**Currently Working on**🔭 
 
 - Kavach **[Fight with Covid-19]**
 - Growing **[ML-Ai Community](https://ml-ai.in/)** 
