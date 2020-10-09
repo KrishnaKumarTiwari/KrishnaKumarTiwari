@@ -9,6 +9,17 @@
 
 :kite: Failed Serial Entrepreneur
 
+
+**Professional Experience**
+
+- Machine Learning Architect, Building AI for India, Jio 
+- Architect, InMobi 
+- Lead Engineer, Samsung R&D
+- Member Technical Staff, Oracle 
+- Founder Wishrupt 
+- Founder WatrHub Solutions
+- Extreme Blue Intern at IBM Research
+
 **Education** 
 
 👨‍🎓 M.Tech in Computer Science & Engineering **[Indian Institute of Technology Guwahati](https://www.iitg.ac.in/)** 
