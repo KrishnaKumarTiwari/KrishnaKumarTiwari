@@ -7,6 +7,8 @@
 
 :chess_pawn: Member of Advisory Board at AI-Forum
 
+:chess_pawn: Mentor for change at NITI Aayog
+
 :kite: Failed Serial Entrepreneur
 
 
